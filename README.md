@@ -28,6 +28,6 @@ for i in [10, 100, 1000, 10000, 100000, 1000000, 10000000]:
    tempo["m3"].append(t_m3)
 
 print(tempo)
-´´´
+```
 ![Exemplo de Imagem](grafico.png)
 
