@@ -1,8 +1,3 @@
-# Comparação de Funções `minmax`
-
-
-
-```python
 from minMax1 import minmax as m1
 from minMax2 import minmax as m2
 from minMax3 import minmax as m3
@@ -28,6 +23,3 @@ for i in [10, 100, 1000, 10000, 100000, 1000000, 10000000]:
    tempo["m3"].append(t_m3)
 
 print(tempo)
-´´´
-![Exemplo de Imagem](grafico.png)
-
