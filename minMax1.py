@@ -7,5 +7,5 @@ def minmax(a):
     if a[i] < _min:
       _min = a [i]
 
-  print(_max)
-  print(_min)
+  
+  
