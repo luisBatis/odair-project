@@ -21,6 +21,6 @@ def minmax(a):
       if a[i+1] > _max:
        _max = a[i+1]
     i += 2
-  print(_min)
-  print(_max)
+  
+ 
     
