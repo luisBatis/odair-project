@@ -98,5 +98,9 @@ for i in [10, 100, 1000, 10000, 100000, 1000000, 10000000]:
 
 print(tempo)
 ```
-![testando com 10].(10.png)
+![com 10](10.png)
+![com 100](100.png)
+![com 100 mil](100k.png)
+![com 1 milhao](1kk.png)
+![com 10 milhões](10kk.png)
 
