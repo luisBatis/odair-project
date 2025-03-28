@@ -98,9 +98,23 @@ for i in [10, 100, 1000, 10000, 100000, 1000000, 10000000]:
 
 print(tempo)
 ```
+# tempo de execução entrada: 10
 ![com 10](10.png)
+lembrando os minMax ta com e-06
+
+# tempo de execução entrada: 100
 ![com 100](100.png)
+miMax1 e-05
+minMax2 e-06
+minMax3 e-05
+# tempo de execução entrada: 100 mil
 ![com 100 mil](100k.png)
-![com 1 milhao](1kk.png)
+m1 e-05
+m2 e -05
+# tempo de execução entrada: 1 milhão 
+![com 1 milhao](1k.png)
+ todos testado em disponível movel
+# tempo de execução entrada: 10 milhão 
 ![com 10 milhões](10kk.png)
+
 
